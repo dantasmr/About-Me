@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Marcelo R. Dantas</string>
+    <string name="yellow_star">yellow star</string>
+    <string name="bio">yellow star fsfdf fsf sfsfs fsf sfsf fsfsfsdfsf dsds sdsdsf sfsf fsfs fsfs sfsf sfsf sfsf</string>
+    <string name="what_is_your_nick_name">what is yout nick name?</string>
+    <string name="done">done</string>
+</resources>
